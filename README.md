@@ -1,6 +1,6 @@
 ### Python to markdown
 
-Lê todos os arquivos *.py em todos os subdiretórios, e cria um unico markdown com nome do arquivo py e seu conteúdo.
+Lê todos os arquivos *.py em todos os subdiretórios, e armazena todo conteudo em um unico markdown com nome do arquivo e seu conteúdo.
 
 O nome da pasta de origem e md de destino devem ser passados como parâmetro
 
